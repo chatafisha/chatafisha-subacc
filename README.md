@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # chatafisha-subacc
 This contract when deployed on near blockchain can create subaccounts of the master account and self delete.The smart contract exposes two methods to enable creating subaccounts and self delete of the created accounts in the NEAR network.
+=======
+# chata-subacc Contract
+
+The smart contract exposes two methods to enable creating subaccounts and self delete of the created accounts in the NEAR network.
+>>>>>>> 0a37e12 (readMe)
 
 ```rust
 use near_sdk::borsh::{self, BorshDeserialize, BorshSerialize};
@@ -95,7 +101,11 @@ impl Contract {
 <br />
 To clone the chata-subacc repo simply run the command:
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/chatafisha/chatafisha-subacc.git
+=======
+git clone
+>>>>>>> 0a37e12 (readMe)
 ```
 
 
@@ -155,4 +165,8 @@ where sender is the accountId of the sender(ie sender.testnet), while receiver i
 The newly created subaccounts will also have the ability to self delete, to self delete simply run the command
 ```bash
 near call <deployed-to-account> delete '{"prefix":"subaccount-name to be deleted","beneficiary":"account that will inherit funds"}'
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 0a37e12 (readMe)
