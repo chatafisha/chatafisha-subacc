@@ -10,6 +10,7 @@ This contract when deployed on near blockchain can create subaccounts of the mas
 
 <br />
 To clone the chata-subacc repo simply run the command:
+
 ```bash
 
 git clone https://github.com/chatafisha/chatafisha-subacc.git
