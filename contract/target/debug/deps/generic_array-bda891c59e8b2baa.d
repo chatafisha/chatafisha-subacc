@@ -1,0 +1,11 @@
+/home/asante/Desktop/Dev/Near/chatafisha_dapp/contract/target/debug/deps/generic_array-bda891c59e8b2baa.rmeta: /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs
+
+/home/asante/Desktop/Dev/Near/chatafisha_dapp/contract/target/debug/deps/generic_array-bda891c59e8b2baa.d: /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs
+
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs:

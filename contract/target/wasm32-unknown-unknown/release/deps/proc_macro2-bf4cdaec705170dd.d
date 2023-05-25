@@ -1,0 +1,11 @@
+/home/asante/Desktop/Dev/Near/chatafisha_dapp/contract/target/wasm32-unknown-unknown/release/deps/proc_macro2-bf4cdaec705170dd.rmeta: /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/lib.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/marker.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/parse.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/rcvec.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/fallback.rs
+
+/home/asante/Desktop/Dev/Near/chatafisha_dapp/contract/target/wasm32-unknown-unknown/release/deps/libproc_macro2-bf4cdaec705170dd.rlib: /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/lib.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/marker.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/parse.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/rcvec.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/fallback.rs
+
+/home/asante/Desktop/Dev/Near/chatafisha_dapp/contract/target/wasm32-unknown-unknown/release/deps/proc_macro2-bf4cdaec705170dd.d: /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/lib.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/marker.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/parse.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/rcvec.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/fallback.rs
+
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/lib.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/marker.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/parse.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/rcvec.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.51/src/fallback.rs:

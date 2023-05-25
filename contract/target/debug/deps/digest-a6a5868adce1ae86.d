@@ -1,0 +1,11 @@
+/home/asante/Desktop/Dev/Near/chatafisha_dapp/contract/target/debug/deps/digest-a6a5868adce1ae86.rmeta: /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs
+
+/home/asante/Desktop/Dev/Near/chatafisha_dapp/contract/target/debug/deps/digest-a6a5868adce1ae86.d: /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs /home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs
+
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs:
+/home/asante/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs:
