@@ -161,4 +161,3 @@ near call <deployed-to-account> delete '{"prefix":"subaccount-name to be deleted
 ```
 =======
 ```
->>>>>>> 0a37e12 (readMe)
