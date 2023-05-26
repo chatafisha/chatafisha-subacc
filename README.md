@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# chatafisha-subacc
+##  chatafisha-subacc
 This contract when deployed on near blockchain can create subaccounts of the master account and self delete.The smart contract exposes two methods to enable creating subaccounts and self delete of the created accounts in the NEAR network.
-=======
 # chata-subacc Contract
 
 The smart contract exposes two methods to enable creating subaccounts and self delete of the created accounts in the NEAR network.
