@@ -98,12 +98,7 @@ impl Contract {
 <br />
 To clone the chata-subacc repo simply run the command:
 ```bash
-<<<<<<< HEAD
 git clone https://github.com/chatafisha/chatafisha-subacc.git
-=======
-git clone
->>>>>>> 0a37e12 (readMe)
-```
 
 
 ## 1. Build and Deploy the Contract
