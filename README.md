@@ -99,7 +99,7 @@ impl Contract {
 To clone the chata-subacc repo simply run the command:
 ```bash
 git clone https://github.com/chatafisha/chatafisha-subacc.git
-
+```
 
 ## 1. Build and Deploy the Contract
 You can automatically compile and deploy the contract in the NEAR testnet by running:
@@ -157,7 +157,5 @@ where sender is the accountId of the sender(ie sender.testnet), while receiver i
 The newly created subaccounts will also have the ability to self delete, to self delete simply run the command
 ```bash
 near call <deployed-to-account> delete '{"prefix":"subaccount-name to be deleted","beneficiary":"account that will inherit funds"}'
-<<<<<<< HEAD
 ```
-=======
-```
+
