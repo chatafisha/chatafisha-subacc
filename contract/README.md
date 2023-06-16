@@ -1,6 +1,5 @@
-#  chatafisha-subacc
+#  Chatafisha-Subacc Contract
 This contract when deployed on near blockchain can create subaccounts of the master account and self delete.The smart contract exposes two methods to enable creating subaccounts and self delete of the created accounts in the NEAR network.
-# chata-subacc Contract
 
 The smart contract exposes two methods to enable creating subaccounts and self delete of the created accounts in the NEAR network.
 
@@ -14,7 +13,7 @@ The smart contract exposes two methods to enable creating subaccounts and self d
 To clone the chata-subacc repo simply run the command:
 
 ```bash
-git clone https://github.com/chatafisha/chatafisha-subacc.git
+git clone https://github.com/chatafisha/chatafisha_dapp/contract.git
 ```
 
 ## 1. Build and Deploy the Contract
