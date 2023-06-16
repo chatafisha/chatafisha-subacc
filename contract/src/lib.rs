@@ -1,17 +1,14 @@
 use near_sdk::borsh::{self, BorshDeserialize, BorshSerialize};
-use near_sdk::{near_bindgen, env, Promise, Balance, AccountId, PublicKey};
-use near_sdk::collections::{LookupMap};
+use near_sdk::collections::LookupMap;
 use near_sdk::json_types::U128;
 use near_sdk::serde::{Serialize, Serializer};
-
+use near_sdk::{env, near_bindgen, AccountId, Balance, Promise, PublicKey};
 
 #[near_bindgen]
-#[derive(Default)]
-#[derive( BorshDeserialize, BorshSerialize)]
+#[derive(Default, BorshDeserialize, BorshSerialize)]
 pub struct Contract {
     // accounts: LookupMap<AccountId, Balance>,
 }
-
 
 const MIN_STORAGE: u128 = 100_000_000_000_000_000_000_000;
 
@@ -33,8 +30,6 @@ impl Contract {
         // }
     }
 
-
-
     pub fn self_delete(prefix: String, beneficiary: AccountId) {
         let account_id = prefix + "." + &env::current_account_id().to_string();
         Promise::new(account_id.parse().unwrap()).delete_account(beneficiary);
@@ -48,19 +43,17 @@ impl Contract {
     // pub fn send_near(account: AccountId, amount: u256) {
     //     // let account_id = prefix + "." + &env::current_account_id().to_string();
     //     Promise::new(account).transfer(amount);
-    }
-
-
-    // pub fn add_keys(prefix: String,public_key: PublicKey, allowance: u128, function_names: String){
-    // let account = prefix + "." + &env::current_account_id().to_string(); 
-    // Promise::new(account.parse().unwrap()).add_access_key(public_key, allowance,account.parse().unwrap(), function_names);
-    // }
-
-    // // pub fn delete_key( prefix: String, key: PublicKey){
-    // // let account_id = prefix + "." + &env::current_account_id().to_string();
-    // // Promise::new(account_id.parse().unwrap()).delete_key(key);
-    // }
 }
+
+// pub fn add_keys(prefix: String,public_key: PublicKey, allowance: u128, function_names: String){
+// let account = prefix + "." + &env::current_account_id().to_string();
+// Promise::new(account.parse().unwrap()).add_access_key(public_key, allowance,account.parse().unwrap(), function_names);
+// }
+
+// // pub fn delete_key( prefix: String, key: PublicKey){
+// // let account_id = prefix + "." + &env::current_account_id().to_string();
+// // Promise::new(account_id.parse().unwrap()).delete_key(key);
+// }
 
 // impl Default for Contract {
 //     fn default() -> Self {
@@ -70,17 +63,6 @@ impl Contract {
 //     }
 // }
 
-
-
-
-
-
-
-
-
-
-
-
 // impl Default for Contract {
 //     fn default() -> Self {
 //         Self {
@@ -88,4 +70,3 @@ impl Contract {
 //         }
 //     }
 // }
-
